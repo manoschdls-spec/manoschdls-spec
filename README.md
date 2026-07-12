@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Manolis | Data Scientist & Business Intelligence Engineer
 
-<!--
-**manoschdls-spec/manoschdls-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Mathematics graduate bridging the gap between data science, machine learning, and business administration. Combining a rigorous background in statistics with corporate strategy to build data products that drive revenue.
 
-Here are some ideas to get you started:
+*🎓 Master in Business Administration (MBA) - European University Cyprus (Graduating Feb 2027).*
+*🎓 Master of Science (MSc) in Data Science & Machine Learning - Hellenic Open University (Starting Oct 2026).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Core Expertise
+* **Data Science & ML:** Supervised/Unsupervised Learning, Classification, Time-Series Forecasting (Scikit-Learn, XGBoost, Kaggle Certified)
+* **Business Acumen & Analytics:** Business Intelligence, Executive Dashboards, KPI Tracking, Retail & Sales Performance Optimization
+* **Data Engineering & UI:** Advanced Data Cleaning (Pandas, NumPy), Interactive Visualizations (Plotly), and Streamlit Production Apps
+
+---
+
+### 💻 Featured Production Project
+* **[Executive Retail Analytics Suite](https://github.com/manoschdls-spec/Retail-Sales-Dashboard)**
+  > An enterprise-grade BI dashboard designed for retailers to analyze real-time sales performance, dynamic margins, and product hierarchies. Built with Python, Streamlit, and Plotly.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+* **Frameworks & UI:** Streamlit, Jupyter Notebooks
+* **Visualizations:** Plotly Express, Seaborn, Matplotlib
+* **Education & Certifications:** 
+  * BSc in Mathematics (University of Ioannina)
+  * Master in Business Administration - MBA (European University Cyprus)
+  * Kaggle Data Science Certifications
+
+---
+
+### 📫 Connect with me
+* 💼 **Upwork:** [Available for Data Science & ML Contracts]
