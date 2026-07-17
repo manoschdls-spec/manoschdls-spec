@@ -2,6 +2,7 @@
 
 A Mathematics graduate bridging the gap between data science, machine learning, and business administration. Combining a rigorous background in statistics with corporate strategy to build data products that drive revenue.
 
+*🎓 BSc in Mathematics - University of Ioannina.*
 *🎓 Master in Business Administration (MBA) - European University Cyprus (Graduating Feb 2027).*
 *🎓 Master of Science (MSc) in Data Science & Machine Learning - Hellenic Open University (Starting Oct 2026).*
 
@@ -31,5 +32,4 @@ A Mathematics graduate bridging the gap between data science, machine learning, 
 
 ---
 
-### 📫 Connect with me
-* 💼 **Upwork:** [Available for Data Science & ML Contracts]
+
