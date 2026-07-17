@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manolis | Data Scientist & Business Intelligence Engineer
+# 👋 Hi, I'm Manolis | Data Scientist & Machine Learning Engineer
 
 A Mathematics graduate bridging the gap between data science, machine learning, and business administration. Combining a rigorous background in statistics with corporate strategy to build data products that drive revenue.
 
