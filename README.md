@@ -2,10 +2,10 @@
 ### Data Scientist & Machine Learning Engineer
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/emmanouil-chadalis" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="https://kaggle.com" target="_blank">
+  <a href="https://www.kaggle.com/emmanouilchadalis" target="_blank">
     <img src="https://shields.io" alt="Kaggle">
   </a>
 </p>
