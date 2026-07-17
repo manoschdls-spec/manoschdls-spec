@@ -1,33 +1,22 @@
-# Hi, I'm Manolis Chadalis! 👋
-### Data Scientist & Machine Learning Engineer
+# Hi, I'm Emmanouil Chadalis 👋
 
-<p align="left">
-  <a href="www.linkedin.com/in/emmanouil-chadalis" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/emmanouilchadalis" target="_blank">
-    <img src="https://shields.io" alt="Kaggle">
-  </a>
-</p>
+**Data Scientist | Machine Learning Engineer | BSc Mathematics | MBA Candidate | Incoming MSc Data Science**
 
----
-
-### 🚀 About Me
-As a **Mathematician with an MBA** and an **incoming MSc Student in Data Science**, I bridge the gap between advanced analytical thinking and strategic business management. My passion lies in Data Science and Machine Learning, where I transform raw data into actionable business models and predictive solutions.
+As a Mathematician with an MBA and an incoming MSc student in Data Science, I bridge the gap between advanced analytical thinking and strategic business management. My passion lies in Data Science and Machine Learning, where I transform raw data into actionable business models and predictive solutions.
 
 With solid foundational training through Kaggle in Data Science and Machine Learning, I build data products that drive corporate strategy and operational growth. My mathematical background allows me to deeply understand algorithms, while my business education ensures that every line of code I write serves a clear corporate objective.
 
-🌍 **Available for freelance projects, data consulting, and contract roles globally.**
+🟢 **Available for freelance projects, data consulting, and contract roles globally.**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-| Category | Technologies & Domains |
-| :--- | :--- |
-| **Languages & Frameworks** | ![Python](https://shields.io) ![SQL](https://shields.io) ![TensorFlow](https://shields.io) ![Scikit-Learn](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) |
-| **Tools & Platforms** | ![Power Bi](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) `Data Analytics Pipelines` |
-| **Business Domains** | `Corporate Strategy` • `Data Product Design` • `Business Administration` • `Business Intelligence (BI)` |
+- **Languages & Frameworks:** Python, SQL, Machine Learning Libraries (Scikit-Learn, NumPy, Pandas, TensorFlow)
+- **Tools:** Power BI, Git/GitHub, Data Analytics Pipelines
+- **Business Domain:** Corporate Strategy, Data Product Design, Business Administration
+
+**Top Skills:** Machine Learning • Mathematics • Python • SQL • Business Intelligence (BI)
 
 ---
 
@@ -45,8 +34,12 @@ An enterprise-grade BI dashboard designed for retailers to analyze real-time sal
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Manolis's GitHub Stats" />
-</p>
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanouil-chadalis/)
+- 💻 [GitHub Projects](https://github.com/manoschdls-spec)
+
+---
+
+⭐️ *Open to collaboration on Data Science, ML, and BI projects.*
 
